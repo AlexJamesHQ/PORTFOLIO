@@ -115,14 +115,6 @@ The portfolio highlights my experience in UI/UX, web development, app developmen
 
 ---
 
-## 📬 Contact
-
-📧 Email: **alexjames7830@gmail.com**
-
-🌐 Portfolio: **http://alex-james.vercel.app**
-
----
-
 ## ⭐ Support
 
 If you like this project, please consider giving it a ⭐ on GitHub.
